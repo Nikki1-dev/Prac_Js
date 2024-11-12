@@ -1,0 +1,38 @@
+li{
+    list-style-type: none;
+    padding-left: 20px;
+    padding-left: 20px;
+
+}
+ul{
+    display: inline;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    padding-top: 20px;
+    padding-left: 20px;
+    background-color:yellow
+}
+img{
+    width: 50px;
+}
+.banner img{
+    width: 100%;
+}
+.row{
+    display: flex;
+    width: 100%;
+
+}
+
+.column {
+    width: 50%;
+    padding: 10px 20px;
+  }
+  
+
+ .about h4{
+    text-align: center;
+    
+ }
